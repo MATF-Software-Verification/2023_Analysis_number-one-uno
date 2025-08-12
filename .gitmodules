@@ -1,3 +1,3 @@
 [submodule "number-one-uno"]
 	path = number-one-uno
-	url = https://gitlab.com/matf-bg-ac-rs/course-rs/projects-2023-2024/number-one-uno.git
+	url = git@gitlab.com:matf-bg-ac-rs/course-rs/projects-2023-2024/number-one-uno.git
